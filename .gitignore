@@ -1,0 +1,8 @@
+node_modules
+
+database
+extensions
+postgres-data
+uploads
+
+.env
